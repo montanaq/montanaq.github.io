@@ -6,7 +6,7 @@ h1 {
 
 p {
     white-space:normal;
-    color: green;
+    color: grey;
     font-size: 20;
     text-align: center;
 }
@@ -18,7 +18,7 @@ h2 {
 }
 
 li {
-    color: blue;
+    color: purple;
     font-size: 14px;
     text-align: center;
 }
